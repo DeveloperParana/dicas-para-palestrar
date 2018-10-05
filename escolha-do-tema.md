@@ -27,4 +27,4 @@ E se mesmo com todo esse discurso, tá difícil! Eu tenho um sugestão, procure 
 
 Marca o [@help4papers](https://twitter.com/help4papers) no Twitter.
 Fale com os palestrinhas do DevParaná, sim os caras querem te ajudar!
-Por fim, busque ispiração, vá em eventos, assita palestras e participe da comunidade.
+Por fim, busque inspiração, vá em eventos, assita palestras e participe da comunidade.
