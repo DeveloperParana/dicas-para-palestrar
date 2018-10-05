@@ -2,7 +2,7 @@
 
 Oratória é a arte de falar em público de forma estruturada e deliberada, com a intenção de informar, influenciar, ou entreter os ouvintes. A oratória refere-se ao conjunto de regras e técnicas adequadas para produzir e apresentar um discurso e apurar as qualidades pessoais do orador (Segundo wikipédia).
 
-Mas palestrar para um público de pensamento lógico, que geralmente é o público das talks do DevParaná, precisa pensar um pouco mais além, unico dicas de oratória e dicas de algumas pessoas que já passou por experiências passadas com palestras.
+Mas palestrar para um público de pensamento lógico, que geralmente é o público das talks do DevParaná, precisa pensar um pouco mais além, unindo dicas de oratória e dicas de algumas pessoas que já passou por experiências passadas com palestras.
 
 ## Falar em público é uma grande oportunidade
 
