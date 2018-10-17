@@ -9,6 +9,18 @@ Mas palestrar para um público de pensamento lógico, que geralmente é o públi
 Primeira coisa é você pensar sempre pelo lado que você está tendo uma oportunidade única que é falar para um público, seja ele de duas pessoas ou mais. Perceba que essas pessoas estão ali apenas pra te ouvir naquele momento, então não sofra por isso pense positivamente, siga as demais dicas aqui para entregar, como diria o Cortella, o seu melhor nas condições que você tem enquanto não pode fazer melhor ainda.
 
 
+## Conecte com as pessoas
+Uma foma de conectar com seu público, é contando histórias. [Há diversos análises em vídeo das apresentações do Steve Jobs](https://www.youtube.com/watch?v=h8eB9FOADdU)
+
+
+## Mostre oque você tem a oferecer
+Mostrar oque você tem a oferecer. Como oque você tem a dizer resolve ou melhora a vida dos ouvintes tende a atrair atenção. [Vídeo](https://www.youtube.com/watch?v=0IcNE1nWEt4)
+
+
+## Começe pelo resultado, depois apresente como chegou nele
+Você pode começar sua talk apresentando os resultados obtidos. Esta sugestão irá trazer a atenção de quem está interessado nos resultados, e liberará a atenção de quem não está, utilizar isto já no Call4Paper pode ajudar a filtrar os interessados já no começo. A  indústria de games e cinemas utilizam esta estratégia em seus trailers. 
+
+
 ## Entenda o público alvo
 
 Geralmente quem palestra em vários eventos falando sobre o mesmo tema precisa ajustar sua apresentação focando no público que estará presente no mesmo, pois se você for falar sobre uma linguagem de programação e o público for inciantes você deverá abordar de um jeito, se for intermediários de outro e assim por diante. Se preparar para seu público é extremamente importante para identificar de nível de extrovertido/piada/gifs você pode deixar sua palestra.
