@@ -10,11 +10,11 @@ Primeira coisa é você pensar sempre pelo lado que você está tendo uma oportu
 
 
 ## Conecte com as pessoas
-Uma foma de conectar com seu público, é contando histórias. [Aprenda com Steave Jobs](https://www.youtube.com/watch?v=h8eB9FOADdU)
+Uma foma de conectar com seu público, é contando histórias. [Há diversos análises em vídeo das apresentações do Steve Jobs](https://www.youtube.com/watch?v=h8eB9FOADdU)
 
 
 ## Mostre oque você tem a oferecer
-[Mostrar oque você tem a oferecer e como oque você tem a dizer resolve ou melhora suas vidas tende a atrair atenção](https://www.youtube.com/watch?v=0IcNE1nWEt4)
+Mostrar oque você tem a oferecer. Como oque você tem a dizer resolve ou melhora a vida dos ouvintes tende a atrair atenção. [Vídeo](https://www.youtube.com/watch?v=0IcNE1nWEt4)
 
 
 ## Começe pelo resultado, depois apresente como chegou nele
