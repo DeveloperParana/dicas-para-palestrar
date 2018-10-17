@@ -18,7 +18,7 @@ Mostrar oque você tem a oferecer. Como oque você tem a dizer resolve ou melhor
 
 
 ## Começe pelo resultado, depois apresente como chegou nele
-Você pode começar sua talk apresentando os resultados obtidos. Esta sugestão irá trazer a atenção de quem está interessada nos resultados, e liberará a atenção de quem não está, utilizar isto já no Call4Paper pode ajudar a filtrar os interessados já no começo. A  indústria de games e cinemas utilizam esta estratégia em seus trailers. 
+Você pode começar sua talk apresentando os resultados obtidos. Esta sugestão irá trazer a atenção de quem está interessado nos resultados, e liberará a atenção de quem não está, utilizar isto já no Call4Paper pode ajudar a filtrar os interessados já no começo. A  indústria de games e cinemas utilizam esta estratégia em seus trailers. 
 
 
 ## Entenda o público alvo
