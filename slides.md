@@ -30,3 +30,7 @@ O Prezi é uma ferramenta que usa da ideia de mapa conceitual para suas apresent
 ferramenta a ideia de slides é elaborada para fluxos que fluem de acordo com o tema/layout
 selecionado para a apresentação. O Prezi possui uma versão gratuita limitada, e versões
 pagas com acesso a mais ferramentas.
+
+## Divulgue seus Slides
+
+Após sua apresentação o ideal é que você divulgue seus slides em alguma plataforma online como [Slideshare](slideshare.com) e [SpeakerDeck](speakerdeck.com), e divulgue ao fim da sua apresentação via um QR-Code ou Short-Link como [Bit.ly](https://bitly.com/) para que as pessoas que assistiram possam acessar o conteúdo apresentado.
