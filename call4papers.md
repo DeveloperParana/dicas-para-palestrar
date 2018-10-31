@@ -2,6 +2,8 @@
 
 Agora você já tem seu tema definido, já montou seus slides, testou na frente do espelho sua proposta de palestra, apresentou para seu gato, papagaio, família, namorada(o) e vizinhos. Está confiante que pode compartilhar sua palestra em algum evento, mas como fazer isso?
 
+Fique atento ao assunto da sua palestra e a temática do evento são pelo menos compatíveis, se possível detalhe bem o que você pretende apresentar na descrição do call4papers. Você pode inclusive fazer um sumário com os pontos que você quer falar e detalhar cada um deles.
+
 ## Procurando eventos
 
 Existem vários tipos de eventos, os quais segregam ou não seu público, por exemplo, um evento como uma conferência (como é o DevParaná Conference) não segrega o público pelo interesse em alguma linguagem ou tecnologia específica. Eventos como o TDC (The Developer Conference) segregam o público em trilhas, então você tem várias palestras ocorrendo ao mesmo tempo de assuntos específicos, como por exemplo, Arquitetura Java, Arquitetura PHP, etc.
