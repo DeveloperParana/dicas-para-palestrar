@@ -33,7 +33,6 @@ pagas com acesso a mais ferramentas.
 
 - [Keynote](https://www.apple.com/keynote/):
 O Keynote é uma aplicação da Apple porém pode ser executada na web a partir de qualquer OS desde que você tenha uma conta no iCloud (ou seja você também pode usar se tiver um iPhone ou iPad). Você pode criar apresentações poderosas e efeitos surpreendentes.
-
 Você pode até usar o Apple Pencil no seu iPad para fazer diagramas ou ilustrações que deixam os slides ainda mais relevantes. Tem mais de 30 temas que vão dar um visual profissional à sua apresentação ou você pode criar seus próprios padrões de slides e imagens de fundo para customizar cada página. Também possuí mais de 30 transições e efeitos cinematográficos para objetos e textos. Você também pode criar slides colaborativos (similar ao Google Docs) e trabalhar em tempo real com outras pessoas. O Keynote é uma das poucas ferramentas que permite exportar as animações com a mesma qualidade para powerpoint e web.
 
 ## Divulgue seus Slides
