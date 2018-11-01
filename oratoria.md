@@ -23,7 +23,7 @@ Você pode começar sua talk apresentando os resultados obtidos. Esta sugestão 
 
 ## Entenda o público alvo
 
-Geralmente quem palestra em vários eventos falando sobre o mesmo tema precisa ajustar sua apresentação focando no público que estará presente no mesmo, pois se você for falar sobre uma linguagem de programação e o público for inciante você deverá abordar de um jeito, se for intermediário de outro e assim por diante. Se preparar para seu público é extremamente importante para identificar o nível de extrovertido/piada/gifs você pode deixar sua palestra.
+Geralmente quem palestra em vários eventos falando sobre o mesmo tema precisa ajustar sua apresentação focando no público que estará presente no mesmo, pois se você for falar sobre uma linguagem de programação e o público for iniciante você deverá abordar de um jeito, se for intermediário de outro e assim por diante. Se preparar para seu público é extremamente importante para identificar o nível de extrovertido/piada/gifs você pode deixar sua palestra.
 Você pode fazer isso perguntando para os organizadores do evento qual é o público que estará presente ou qual é a maioria, pois dificilmente poderá atender a todos com o mesmo peso de conteúdo e abordagem.
 
 ## Se conecte com seu público
