@@ -10,6 +10,9 @@ Evite muitas informações por slide, isso pode acabar dispersando a atenção d
 ## Código
 Mostrar código é sempre difícil. Tenha em mente que você precisa mostrar o mínimo possível por vez na tela, para que todos possam ler e entender. Muitas vezes colocamos o máximo de código possível em um slide e ninguém acaba conseguindo ver nada. Você pode utilizar o [carbon](http://carbon.now.sh/) para fazer boas imagens do seu código, habilite a contagem das linhas para que você possa indicar linhas sem muito esforço. Ex: "logo na linha 6, podemos ver a função.."
 
+## Dicas 
+- [Missao_tornar_seus_slides_mais_atrentes.pdf](resources/Missao_tornar_seus_slides_mais_atrentes.pdf)
+
 ## Plataformas para criação de Slides
 
 - [Google Slides](slides.google.com):
