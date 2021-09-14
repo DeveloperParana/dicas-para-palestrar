@@ -12,7 +12,7 @@ Mostrar código é sempre difícil. Tenha em mente que você precisa mostrar o m
 
 ## Plataformas para criação de Slides
 
-- [Google Slides](slides.google.com):
+- [Google Slides](https://slides.google.com):
 O Google Slides é uma ferramenta disponível no Google Drive.
 Com muitos templates baseados no design material, você encontra diversas formas de elaborar
 uma apresentação além de receber sugestões de estilos e layout para cada slide.
